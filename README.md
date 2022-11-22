@@ -16,4 +16,4 @@ EDA
 
 EDA is the crutial process done to get to know our data .pyton gives us plenty of methods to perform EDA but thair also AUTO-EDA tools out thair.
 
-SWEETVIS is the one i used but thair are other tools outthair.
+SWEETVIS is the one i used but thair are other tools like pandas profile.
